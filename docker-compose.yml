@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  ddns:
+    build: .
+    image: lchannng/iptv-checker
+    command: -h
+
