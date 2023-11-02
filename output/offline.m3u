@@ -40,10 +40,10 @@ http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1
 http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NewTV动画王国 (1080p) (HTTP 408 Request Timeout)
 http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-id="NHKChinese.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0a/NHK_Huayu_Shijie_Logo.jpg/512px-NHK_Huayu_Shijie_Logo.jpg" group-title="News",NHK Chinese Vision (720p) (HTTP 403 Forbidden)
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",三明公共 (720p) [Not 24/7] (HTTP 403 Forbidden)
 https://stream.smntv.cn/smtv2/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKChinese.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0a/NHK_Huayu_Shijie_Logo.jpg/512px-NHK_Huayu_Shijie_Logo.jpg" group-title="News",NHK Chinese Vision (720p) (HTTP 403 Forbidden)
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NewTV动画王国 (1080p) (HTTP 408 Request Timeout)
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NewTV完美遊戲 (1080p) (HTTP 408 Request Timeout)
@@ -88,16 +88,16 @@ http://112.25.48.68/live/program/live/mlyyhd/4000000/mnf.m3u8
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 #EXTINF:-1 tvg-id="ToonmaxTV.cn" tvg-logo="https://i.imgur.com/Uhwv1il.png" group-title="Kids",Toonmax TV (576p) (FFMPEG Process Timeout)
 http://210.210.155.37/qwr9ew/s/s50/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",上海金山电视台 (270p) (HTTP 404 Not Found)
-https://live.mudu.tv/watch/4zbn2f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",东至文化资讯 (576p) [Not 24/7] (HTTP 404 Not Found)
-http://223.247.33.124:1935/live/wenhua/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",东至新闻综合 (720p) [Not 24/7] (HTTP 404 Not Found)
 http://223.247.33.124:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",三明新闻综合 (720p) [Not 24/7] (HTTP 403 Forbidden)
-https://stream.smntv.cn/smtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",东至文化资讯 (576p) [Not 24/7] (HTTP 404 Not Found)
+http://223.247.33.124:1935/live/wenhua/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",东至影视 (576p) [Not 24/7] (HTTP 404 Not Found)
 http://223.247.33.124:1935/live/yingshi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",三明新闻综合 (720p) [Not 24/7] (HTTP 403 Forbidden)
+https://stream.smntv.cn/smtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",上海金山电视台 (270p) (HTTP 404 Not Found)
+https://live.mudu.tv/watch/4zbn2f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",上海 ICS外语 (1080p) [Not 24/7] (HTTP 408 Request Timeout)
 http://112.25.48.68/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",上海东方影视 (1080p) [Not 24/7] (HTTP 408 Request Timeout)
@@ -146,18 +146,18 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",中国交通 (576p) (HTTP 408 Request Timeout)
 http://ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",中天新聞 (1080p) [Not 24/7] (HTTP 404 Not Found)
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",中視新聞 (1080p) [Geo-blocked] (HTTP 404 Not Found)
+http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",乐清生活 [Geo-blocked] (HTTP 403 Forbidden)
 http://33809.hlsplay.aodianyun.com/guangdianyun_33809/tv_channel_171.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",乐清新闻 [Geo-blocked] (HTTP 403 Forbidden)
 http://33809.hlsplay.aodianyun.com/guangdianyun_33809/tv_channel_170.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",中天新聞 (1080p) [Not 24/7] (HTTP 401 Unauthorized)
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",中視新聞 (1080p) [Geo-blocked] (HTTP 401 Unauthorized)
-http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",交城電視台 (576p) (HTTP 404 Not Found)
-http://sxjc.chinashadt.com:2036/live/stream:jctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",云南卫视 (1080p) (HTTP 403 Forbidden)
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",交城電視台 (576p) (HTTP 404 Not Found)
+http://sxjc.chinashadt.com:2036/live/stream:jctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",云南 Ⅰ 红河综合台 (1080p) (FFMPEG Invalid Data)
 https://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",中国天气 (576p) [Not 24/7] (HTTP 408 Request Timeout)
@@ -200,22 +200,22 @@ https://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m
 https://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",侨乡 (1080p) (HTTP 403 Forbidden)
 http://stream.jinjiang.tv/1/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",内江公共 (720p) (HTTP 403 Forbidden)
+http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",内江综合 (720p) (HTTP 403 Forbidden)
 http://njzb.scnj.tv:90/live/xwzh_xwzh800.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",内江科教 (720p) (HTTP 403 Forbidden)
 http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",内江公共 (720p) (HTTP 403 Forbidden)
-http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",农安新闻综合 [Geo-blocked] (HTTP 403 Forbidden)
-https://stream2.jlntv.cn/naxw/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",利川公共 (576p) [Geo-blocked] (HTTP 403 Forbidden)
 http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",农安新闻综合 [Geo-blocked] (HTTP 403 Forbidden)
+https://stream2.jlntv.cn/naxw/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",前郭综合 [Geo-blocked] (HTTP 403 Forbidden)
 https://stream2.jlntv.cn/qg/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",利川公共 (180p) [Not 24/7] (HTTP Connection Reset)
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",利川新闻综合 (480p) [Not 24/7] (HTTP Connection Reset)
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",利川公共 (180p) [Not 24/7] (HTTP Connection Reset)
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",兵团卫视 (540p) [Not 24/7] (HTTP 408 Request Timeout)
 http://112.25.48.68/live/program/live/btws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",内蒙古 (576p) (HTTP 408 Request Timeout)
@@ -258,32 +258,32 @@ http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.
 http://ivi.bupt.edu.cn/hls/btv5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",北京青年 [Not 24/7] (HTTP 408 Request Timeout)
 http://ivi.bupt.edu.cn/hls/btv8.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京十八 (720p) (HTTP 403 Forbidden)
-https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京少儿 (720p) [Not 24/7] (HTTP 403 Forbidden)
-https://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京娱乐 (720p) (HTTP 403 Forbidden)
-https://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京教科 (720p) [Not 24/7] (HTTP 403 Forbidden)
-https://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京新闻综合 (720p) (HTTP 403 Forbidden)
-https://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京生活 (720p) (HTTP 403 Forbidden)
-https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京信息 (720p) (HTTP 403 Forbidden)
-https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",华数 (720p) [Not 24/7] (HTTP 404 Not Found)
+http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",台視新聞 (1080p) [Not 24/7] (HTTP 404 Not Found)
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南阳新闻 (1080p) [Not 24/7] (HTTP 403 Forbidden)
+http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南陽公共頻道 (1080p) [Not 24/7] (HTTP 403 Forbidden)
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_295.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南陽科教頻道 (1080p) [Not 24/7] (HTTP 403 Forbidden)
 http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_296.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南阳新闻 (1080p) [Not 24/7] (HTTP 403 Forbidden)
-http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",台視新聞 (1080p) [Not 24/7] (HTTP 401 Unauthorized)
-http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京十八 (720p) (HTTP 403 Forbidden)
+https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京新闻综合 (720p) (HTTP 403 Forbidden)
+https://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京娱乐 (720p) (HTTP 403 Forbidden)
+https://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京教科 (720p) [Not 24/7] (HTTP 403 Forbidden)
+https://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京少儿 (720p) [Not 24/7] (HTTP 403 Forbidden)
+https://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京信息 (720p) (HTTP 403 Forbidden)
+https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京生活 (720p) (HTTP 403 Forbidden)
+https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",吉林卫视 (240p) [Not 24/7] (HTTP 403 Forbidden)
 https://stream4.jlntv.cn/test2/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",华数 (720p) [Not 24/7] (HTTP 404 Not Found)
-http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",华亭电视台 (1080p) (HTTP 408 Request Timeout)
 http://117.156.28.119/270000001111/1110000148/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京十八 (576p) (HTTP 408 Request Timeout)
@@ -312,34 +312,34 @@ http://125.210.152.18:9090/live/JLWSHD_H265.m3u8
 http://112.25.48.68/live/program/live/jlws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",吉林卫视 (576p) (HTTP 408 Request Timeout)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",吉林市新闻综合 [Geo-blocked] (HTTP 403 Forbidden)
-https://stream2.jlntv.cn/jilin1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",吴江新闻综合 (720p) [Not 24/7] (HTTP 403 Forbidden)
 http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川 Ⅰ 四川新闻台 (720p) [Not 24/7] (HTTP 403 Forbidden)
-http://scgctvshow.sctv.com/hdlive/sctv4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川 Ⅰ 四川影视台 (720p) [Not 24/7] (HTTP 403 Forbidden)
 http://scgctvshow.sctv.com/hdlive/sctv5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川 Ⅰ 巴中综合台 (1080p) [Not 24/7] (HTTP 403 Forbidden)
-http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川 Ⅰ 四川新闻台 (720p) [Not 24/7] (HTTP 403 Forbidden)
+http://scgctvshow.sctv.com/hdlive/sctv4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川 Ⅰ 星空购物台 (720p) [Not 24/7] (HTTP 403 Forbidden)
 http://scgctvshow.sctv.com/hdlive/sctv6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川 Ⅰ 达州公共台 (720p) [Not 24/7] (HTTP 403 Forbidden)
-http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川 Ⅰ 达州综合台 (720p) [Not 24/7] (HTTP 403 Forbidden)
-http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
-#EXTINF:-1 tvg-id="SichuanTVWomenandChildrenChannel.cn" tvg-logo="https://i.imgur.com/1lGO0vY.png" group-title="Family",四川妇女儿童 (720p) [Not 24/7] (HTTP 403 Forbidden)
-http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川 Ⅰ 巴中综合台 (1080p) [Not 24/7] (HTTP 403 Forbidden)
+http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",吉林市新闻综合 [Geo-blocked] (HTTP 403 Forbidden)
+https://stream2.jlntv.cn/jilin1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川公共 (720p) (HTTP 403 Forbidden)
 http://scgctvshow.sctv.com/hdlive/sctv9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四平新闻综合 [Geo-blocked] (HTTP 403 Forbidden)
-https://stream2.jlntv.cn/sptv/sd/live.m3u8
+#EXTINF:-1 tvg-id="SichuanTVWomenandChildrenChannel.cn" tvg-logo="https://i.imgur.com/1lGO0vY.png" group-title="Family",四川妇女儿童 (720p) [Not 24/7] (HTTP 403 Forbidden)
+http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川 Ⅰ 达州综合台 (720p) [Not 24/7] (HTTP 403 Forbidden)
+http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川 Ⅰ 达州公共台 (720p) [Not 24/7] (HTTP 403 Forbidden)
+http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",大悟综合 [Geo-blocked] (HTTP 403 Forbidden)
+http://yunshangdawu.live.tempsource.cjyun.org/videotmp/s10129-dwzhpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",大冶二套 [Geo-blocked] (HTTP 403 Forbidden)
 http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC2T.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",大冶一套 [Geo-blocked] (HTTP 403 Forbidden)
 http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC1T.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",大悟综合 [Geo-blocked] (HTTP 403 Forbidden)
-http://yunshangdawu.live.tempsource.cjyun.org/videotmp/s10129-dwzhpd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四平新闻综合 [Geo-blocked] (HTTP 403 Forbidden)
+https://stream2.jlntv.cn/sptv/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",大爱海外 (720p) (HTTP 403 Forbidden)
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",奇妙電視 (720p) (HTTP Connection Reset)
@@ -370,10 +370,10 @@ http://112.25.48.68/live/program/live/nxws/1300000/mnf.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",宁夏卫视 (576p) (HTTP 408 Request Timeout)
 http://117.169.120.140:8080/live/ningxiastv/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",安徽 Ⅰ 淮北综合 (720p) (HTTP 404 Not Found)
-http://live.0561rtv.cn/xwzh/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",安徽 Ⅰ 淮北公共 (720p) (HTTP 404 Not Found)
 http://live.0561rtv.cn/ggpd/hd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",安徽 Ⅰ 淮北综合 (720p) (HTTP 404 Not Found)
+http://live.0561rtv.cn/xwzh/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",宁夏卫视 (576p) (HTTP Connection Reset)
 http://183.207.248.11/PLTV/4/224/3221225842/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",安徽戏曲广播 [Geo-blocked] (HTTP 404 Not Found)
@@ -384,22 +384,6 @@ http://stream2.ahrtv.cn/xnxw/sd/live.m3u8
 http://stream2.ahrtv.cn/lygb/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",安徽小说评书广播 [Geo-blocked] (HTTP 404 Not Found)
 http://stream1.ahrtv.cn/xspsgb/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",山东居家购物 (360p) [Geo-blocked] (HTTP 403 Forbidden)
-http://livealone302.iqilu.com/iqilu/gwpd.m3u8
-#EXTINF:-1 tvg-id="ShandongTVAgriculturalScienceChannel.cn" tvg-logo="https://i.imgur.com/EY2zH06.png" group-title="Science",山东农科 (406p) [Geo-blocked] (HTTP 403 Forbidden)
-http://livealone302.iqilu.com/iqilu/nkpd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",山东新闻 (1080p) [Geo-blocked] (HTTP 403 Forbidden)
-http://livealone302.iqilu.com/iqilu/ggpd.m3u8
-#EXTINF:-1 tvg-id="ShandongTVLifeChannel.cn" tvg-logo="https://i.imgur.com/bWPiC14.png" group-title="Undefined",山东生活 (1080p) [Geo-blocked] (HTTP 403 Forbidden)
-http://livealone302.iqilu.com/iqilu/shpd.m3u8
-#EXTINF:-1 tvg-id="ShandongTVVarietyChannel.cn" tvg-logo="https://i.imgur.com/a2XK8N9.png" group-title="Undefined",山东综艺 (406p) [Geo-blocked] (HTTP 403 Forbidden)
-http://livealone302.iqilu.com/iqilu/zypd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",山东影视 (406p) [Geo-blocked] (HTTP 403 Forbidden)
-http://livealone302.iqilu.com/iqilu/yspd.m3u8
-#EXTINF:-1 tvg-id="ShandongTVSportsChannel.cn" tvg-logo="https://i.imgur.com/zX4RxvG.png" group-title="Sports",山东体育 (1080p) [Geo-blocked] (HTTP 403 Forbidden)
-http://livealone302.iqilu.com/iqilu/typd.m3u8
-#EXTINF:-1 tvg-id="ShandongTVChildrensChannel.cn" tvg-logo="https://i.imgur.com/ph7YKNa.png" group-title="Kids",山东少儿 (406p) [Geo-blocked] (HTTP 403 Forbidden)
-http://livealone302.iqilu.com/iqilu/sepd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",宁夏卫视 (576p) (HTTP 408 Request Timeout)
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",宁夏卫视 (576p) [Not 24/7] (HTTP 408 Request Timeout)
@@ -424,24 +408,42 @@ http://223.110.245.139/PLTV/4/224/3221227011/index.m3u8
 http://183.207.248.71/cntv/live1/SD-1500k-576P-jiayougw/SD-1500k-576P-jiayougw
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",宿迁公共 (480p) (HTTP 408 Request Timeout)
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221226939/index.m3u8
+#EXTINF:-1 tvg-id="ShandongTVSportsChannel.cn" tvg-logo="https://i.imgur.com/zX4RxvG.png" group-title="Sports",山东体育 (1080p) [Geo-blocked] (HTTP 408 Request Timeout)
+http://livealone302.iqilu.com/iqilu/typd.m3u8
+#EXTINF:-1 tvg-id="ShandongTVAgriculturalScienceChannel.cn" tvg-logo="https://i.imgur.com/EY2zH06.png" group-title="Science",山东农科 (406p) [Geo-blocked] (HTTP 408 Request Timeout)
+http://livealone302.iqilu.com/iqilu/nkpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",山东卫视 (720p) (HTTP 408 Request Timeout)
 http://125.210.152.18:9090/live/SDWSHD_H265.m3u8
 #EXTINF:-1 tvg-id="ShandongTV.cn" tvg-logo="https://i.imgur.com/t3ICc4i.png" group-title="Undefined",山东卫视 (1080p) (HTTP 408 Request Timeout)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",山西 Ⅰ 朔州新闻台 (10p) [Not 24/7] (HTTP 404 Not Found)
-http://stream.sxsztv.com/live4/sd/live.m3u8
-#EXTINF:-1 tvg-id="ShandongTVQiluChannel.cn" tvg-logo="https://i.imgur.com/U9wNMmm.png" group-title="Undefined",山东齐鲁 (1080p) [Geo-blocked] (HTTP 403 Forbidden)
-http://livealone302.iqilu.com/iqilu/qlpd.m3u8
+#EXTINF:-1 tvg-id="ShandongTVChildrensChannel.cn" tvg-logo="https://i.imgur.com/ph7YKNa.png" group-title="Kids",山东少儿 (406p) [Geo-blocked] (HTTP 408 Request Timeout)
+http://livealone302.iqilu.com/iqilu/sepd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",山东居家购物 (360p) [Geo-blocked] (HTTP 408 Request Timeout)
+http://livealone302.iqilu.com/iqilu/gwpd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",山东影视 (406p) [Geo-blocked] (HTTP 408 Request Timeout)
+http://livealone302.iqilu.com/iqilu/yspd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",山东新闻 (1080p) [Geo-blocked] (HTTP 408 Request Timeout)
+http://livealone302.iqilu.com/iqilu/ggpd.m3u8
+#EXTINF:-1 tvg-id="ShandongTVLifeChannel.cn" tvg-logo="https://i.imgur.com/bWPiC14.png" group-title="Undefined",山东生活 (1080p) [Geo-blocked] (HTTP 408 Request Timeout)
+http://livealone302.iqilu.com/iqilu/shpd.m3u8
+#EXTINF:-1 tvg-id="ShandongTVVarietyChannel.cn" tvg-logo="https://i.imgur.com/a2XK8N9.png" group-title="Undefined",山东综艺 (406p) [Geo-blocked] (HTTP 408 Request Timeout)
+http://livealone302.iqilu.com/iqilu/zypd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",徐州公共頻道 (1080p) (HTTP Connection Reset)
 http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",巴中综合 (1080p) [Not 24/7] (HTTP 403 Forbidden)
-http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",巴中公共 (1080p) [Not 24/7] (HTTP 403 Forbidden)
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",巴中综合 (1080p) [Not 24/7] (HTTP 403 Forbidden)
+http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",山西 Ⅰ 朔州新闻台 (10p) [Not 24/7] (HTTP 404 Not Found)
+http://stream.sxsztv.com/live4/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",广东 ‖ 清新综合台 (1080p) (HTTP 404 Not Found)
+https://hls.wiseqx.com/live/qxzh.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",广水新闻综合 [Geo-blocked] (HTTP 403 Forbidden)
 http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",延边新闻综合 [Geo-blocked] (HTTP 403 Forbidden)
 https://stream2.jlntv.cn/jlyb/sd/live.m3u8
+#EXTINF:-1 tvg-id="ShandongTVQiluChannel.cn" tvg-logo="https://i.imgur.com/U9wNMmm.png" group-title="Undefined",山东齐鲁 (1080p) [Geo-blocked] (HTTP 408 Request Timeout)
+http://livealone302.iqilu.com/iqilu/qlpd.m3u8
 #EXTINF:-1 tvg-id="ShanxiTV.cn" tvg-logo="https://i.imgur.com/UfKJBWW.png" group-title="Undefined",山西卫视 (576p) (HTTP 408 Request Timeout)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",岷县电视台 (1080p) (HTTP 408 Request Timeout)
@@ -480,10 +482,17 @@ http://livehyw5.chinamcache.com/hyw/zb12.m3u8
 http://livehyw5.chinamcache.com/hyw/zb11.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",新疆汉语综艺 (720p) [Geo-blocked] (HTTP 404 Not Found)
 http://livehyw5.chinamcache.com/hyw/zb04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",景县电视一套 (576p) [Not 24/7] (HTTP 404 Not Found)
-http://hbjx.chinashadt.com:1935/live/jx1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",景县电视一套 (360p) [Not 24/7] (HTTP 404 Not Found)
 http://hbjx.chinashadt.com:1935/live/stream:jx1.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",景县电视一套 (576p) [Not 24/7] (HTTP 404 Not Found)
+http://hbjx.chinashadt.com:1935/live/jx1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",旺苍新闻 (528p) [Not 24/7] (HTTP 404 Not Found)
+http://3g.dzsm.com/streamer/gycttv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",新泰影視頻道 (480p) [Not 24/7] (Converting circular structure to JSON
+    --> starting at object with constructor 'Object'
+    |     property 'curlObject' -> object with constructor 'CurlHelper'
+    --- property 'request' closes the circle)
+http://111.17.214.4:1935/live/xtys/playlist.m3u8
 #EXTINF:-1 tvg-id="DunhuangTV.cn" tvg-logo="https://i.imgur.com/RpGKOQd.jpg" group-title="Undefined",敦煌电视台 (1080p) (HTTP 408 Request Timeout)
 http://117.156.28.119/270000001111/1110000028/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",新疆卫视 (540p) (HTTP 408 Request Timeout)
@@ -544,10 +553,12 @@ http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream_360p/playlist.m3u8
 http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HebeiTV.cn" tvg-logo="https://i.imgur.com/Z5Ppzbi.png" group-title="Undefined",河北卫视 (576p) (HTTP 408 Request Timeout)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",浙江 Ⅰ 浙江易购 (720p) [Not 24/7] (HTTP 404 Not Found)
+https://hw-m-l.cztv.com/channels/lantian/channel11/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",海盐新闻 (720p) (HTTP 500 Internal Server Error)
+http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",海南州藏語頻道 (480p) (HTTP 404 Not Found)
 http://live.hnzzzzzdst.com/channel1/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",海盐新闻 (720p) (HTTP 4XX Client Error)
-http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
 #EXTINF:-1 tvg-id="HenanTVSatellite.cn" tvg-logo="https://i.imgur.com/IBW26kV.png" group-title="Undefined",河南卫视 (540p) (HTTP 408 Request Timeout)
 http://112.25.48.68/live/program/live/hnws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="ZhejiangSatelliteTV.cn" tvg-logo="https://i.imgur.com/5gQn4uY.png" group-title="Undefined",浙江卫视 (1080p) (HTTP 408 Request Timeout)
@@ -562,34 +573,14 @@ http://jingmen.live.cjyun.org/video/s10101-jmggpd.m3u8
 http://hblxx.chinashadt.com:2036/live/stream:lx2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",滦县综合 (576p) (HTTP 500 Internal Server Error)
 http://hblxx.chinashadt.com:2036/live/stream:lx1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ChuzhouPublicChannel.cn" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="Undefined",滁州市广播电视台 公共频道 (400p) (HTTP Connection Reset)
-http://live.cztv.cc:85/live/ggpd.m3u8
 #EXTINF:-1 tvg-id="ChuzhouNewsChannel.cn" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="News",滁州市广播电视台 新闻综合频道 (1080p) (HTTP Connection Reset)
 http://live.cztv.cc:85/live/xwpd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",白山新闻综合 [Geo-blocked] (HTTP 403 Forbidden)
-https://stream2.jlntv.cn/baishan1/sd/live.m3u8
+#EXTINF:-1 tvg-id="ChuzhouPublicChannel.cn" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="Undefined",滁州市广播电视台 公共频道 (400p) (HTTP Connection Reset)
+http://live.cztv.cc:85/live/ggpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",白城新闻综合 [Geo-blocked] (HTTP 403 Forbidden)
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",电白视窗 (576p) [Not 24/7] (Converting circular structure to JSON
-    --> starting at object with constructor 'Object'
-    |     property 'curlObject' -> object with constructor 'CurlHelper'
-    --- property 'request' closes the circle)
-http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",电白视窗 (360p) [Not 24/7] (Converting circular structure to JSON
-    --> starting at object with constructor 'Object'
-    |     property 'curlObject' -> object with constructor 'CurlHelper'
-    --- property 'request' closes the circle)
-http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",电白综合 (360p) [Not 24/7] (Converting circular structure to JSON
-    --> starting at object with constructor 'Object'
-    |     property 'curlObject' -> object with constructor 'CurlHelper'
-    --- property 'request' closes the circle)
-http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",电白综合 (576p) [Not 24/7] (Converting circular structure to JSON
-    --> starting at object with constructor 'Object'
-    |     property 'curlObject' -> object with constructor 'CurlHelper'
-    --- property 'request' closes the circle)
-http://gddb.chinashadt.com:1935/live/video1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",白山新闻综合 [Geo-blocked] (HTTP 403 Forbidden)
+https://stream2.jlntv.cn/baishan1/sd/live.m3u8
 #EXTINF:-1 tvg-id="ShenzhenSatelliteTV.cn" tvg-logo="https://i.imgur.com/1drIhnb.png" group-title="Undefined",深圳卫视 (1080p) (HTTP 408 Request Timeout)
 http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8
 #EXTINF:-1 tvg-id="HubeiSatelliteTV.cn" tvg-logo="https://i.imgur.com/CTRa9BJ.png" group-title="Undefined",湖北卫视 (1080p) (HTTP 408 Request Timeout)
@@ -622,6 +613,14 @@ http://223.110.245.139/PLTV/4/224/3221226388/index.m3u8
 http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=685&icpid=88888888
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",生活 (576p) (HTTP 408 Request Timeout)
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",电白视窗 (360p) [Not 24/7] (HTTP 408 Request Timeout)
+http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",电白视窗 (576p) [Not 24/7] (HTTP 408 Request Timeout)
+http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",电白综合 (360p) [Not 24/7] (HTTP 408 Request Timeout)
+http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",电白综合 (576p) [Not 24/7] (HTTP 408 Request Timeout)
+http://gddb.chinashadt.com:1935/live/video1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",美国狗狗宠物 (1080p) (HTTP 404 Not Found)
 https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",百事通体育1 (1080p) [Not 24/7] (HTTP 408 Request Timeout)
@@ -650,24 +649,20 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",置业 (576p) (HTTP 408 Request Timeout)
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
-#EXTINF:-1 tvg-id="SinoVision.cn" tvg-logo="https://i.imgur.com/ir3jkyL.png" group-title="Undefined",美国中文电视 (406p) [Not 24/7] (HTTP 408 Request Timeout)
-https://jpts.sinovision.net/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西青新闻综合 (1080p) [Not 24/7] (HTTP 404 Not Found)
-http://221.238.209.44:81/hls/live1.m3u8
+#EXTINF:-1 tvg-id="XianSilkRoadChannel.cn" tvg-logo="https://i.imgur.com/52i1Qnz.png" group-title="Undefined",西安丝路 (404p) [Not 24/7] (HTTP 403 Forbidden)
+http://stream2.xiancity.cn/xatv5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西安乐购购物 (180p) [Not 24/7] (HTTP 403 Forbidden)
 http://stream2.xiancity.cn/xatv6/playlist.m3u8
 #EXTINF:-1 tvg-id="XianBusinessInformationChannel.cn" tvg-logo="https://i.imgur.com/dzdiY4O.png" group-title="Business",西安商务资讯 (180p) [Not 24/7] (HTTP 403 Forbidden)
 http://stream2.xiancity.cn/xatv3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西安影视 (180p) [Not 24/7] (HTTP 403 Forbidden)
 http://stream2.xiancity.cn/xatv4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西安白鸽 (180p) [Not 24/7] (HTTP 403 Forbidden)
-http://stream2.xiancity.cn/xatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西安新闻 (1080p) [Not 24/7] (HTTP 403 Forbidden)
 http://stream2.xiancity.cn/xatv1/playlist.m3u8
-#EXTINF:-1 tvg-id="XianSilkRoadChannel.cn" tvg-logo="https://i.imgur.com/52i1Qnz.png" group-title="Undefined",西安丝路 (404p) [Not 24/7] (HTTP 403 Forbidden)
-http://stream2.xiancity.cn/xatv5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西藏卫视 (576p) (HTTP 403 Forbidden)
-http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西安白鸽 (180p) [Not 24/7] (HTTP 403 Forbidden)
+http://stream2.xiancity.cn/xatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西藏藏語 (576p) (HTTP 403 Forbidden)
+http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",芜湖公共 (576p) (HTTP Parse Error)
 http://live1.wuhubtv.com/channel3/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",芜湖生活 (576p) (HTTP Parse Error)
@@ -708,28 +703,28 @@ http://183.207.249.16/PLTV/3/224/3221225523/index.m3u8
 http://125.210.152.18:9090/live/GZWSHD_H265.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",辽源新闻综合 [Geo-blocked] (HTTP 403 Forbidden)
 https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",金昌公共頻道 (240p) [Geo-blocked] (HTTP 500 Internal Server Error)
+http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",金昌綜合頻道 (720p) [Geo-blocked] (HTTP 500 Internal Server Error)
+http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",通化新闻 [Geo-blocked] (HTTP 403 Forbidden)
 https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",长乐综合 [Geo-blocked] (HTTP 403 Forbidden)
 http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",长春综合 [Geo-blocked] (HTTP 403 Forbidden)
-https://stream2.jlntv.cn/jlcc/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",长沙地铁移动 [Geo-blocked] (HTTP 403 Forbidden)
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",长沙政法 [Geo-blocked] (HTTP 403 Forbidden)
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",长沙地铁移动 [Geo-blocked] (HTTP 403 Forbidden)
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",长沙新闻 [Geo-blocked] (HTTP 403 Forbidden)
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",长沙女性 [Geo-blocked] (HTTP 403 Forbidden)
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",长沙购物 [Geo-blocked] (HTTP 403 Forbidden)
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",长沙经贸 [Geo-blocked] (HTTP 403 Forbidden)
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",金昌公共頻道 (240p) [Geo-blocked] (HTTP 4XX Client Error)
-http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",金昌綜合頻道 (720p) [Geo-blocked] (HTTP 4XX Client Error)
-http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",长春综合 [Geo-blocked] (HTTP 403 Forbidden)
+https://stream2.jlntv.cn/jlcc/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",长沙购物 [Geo-blocked] (HTTP 403 Forbidden)
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",贵州卫视 (576p) (HTTP 408 Request Timeout)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",赵县电视一套 (360p) (HTTP 408 Request Timeout)
@@ -774,12 +769,12 @@ http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_305.m3u8
 http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",集安综合 [Geo-blocked] (HTTP 403 Forbidden)
 https://stream2.jlntv.cn/ja/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",鹤峰综合 [Geo-blocked] (HTTP 403 Forbidden)
-http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",霸州公共頻道 (576p) [Not 24/7] (HTTP 404 Not Found)
 http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",黔西南公共 (288p) [Geo-blocked] (HTTP 404 Not Found)
 http://live.qxndt.com/channel3/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",鹤峰综合 [Geo-blocked] (HTTP 403 Forbidden)
+http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8
 #EXTINF:-1 tvg-id="HebiNewsChannel.cn" tvg-logo="https://i.imgur.com/Osw5yRW.png" group-title="News",鹤壁新闻综合 (480p) [Not 24/7] (HTTP 404 Not Found)
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",霍山综合 (576p) (HTTP 408 Request Timeout)
